@@ -1,0 +1,14 @@
+@import url('app.css');
+@import url('bootstrap.css');
+
+.logo {width: 35px;}
+
+.navbar-toggler:hover {background: #e6e6e6;}
+
+.articles {width: 30%;}
+
+.f-logo {width: 25px;}
+
+.tel {text-decoration: none;}
+
+.tel:hover {color: var(--ferrari)!important;}
